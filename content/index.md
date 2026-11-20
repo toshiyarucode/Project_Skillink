@@ -1,8 +1,8 @@
 
 ---
-title: Project Skillink
-description: Um espaço para organizar conhecimentos, projetos e ideias.
-socialDescription: Explore o Project Skillink, um ambiente dedicado a conhecimento, organização e colaboração.
+title: "Project Skillink"
+description: "Um espaço para organizar conhecimentos, projetos e ideias."
+socialDescription: "Explore o Project Skillink: conhecimento, organização e colaboração."
 publish: true
 ---
 
@@ -14,4 +14,4 @@ Um espaço central para explorar conhecimentos, organizar projetos e conectar id
 
 ## Explore o projeto
 
-- [[00 - Project Overview/01 - Changelog|Changelog]]
+Conheça nossas atualizações e novidades no Changelog.
