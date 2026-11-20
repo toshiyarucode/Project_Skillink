@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Project Skillink
 publish: true
 ---
 Welcome to Project Skillink Documentation Page.
